@@ -16,7 +16,7 @@ This app does the following:
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://edvora-takehome.vercel.app/)
 
 ## Getting Started\*
 
